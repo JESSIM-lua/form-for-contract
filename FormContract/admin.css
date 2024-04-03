@@ -1,0 +1,64 @@
+
+   /* Formulaire
+	GitHub : JESSIM-lua
+	Date : 13/12/2023
+	Description : CSS de l'administration du site */
+
+/* Style pour la table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+/* Style pour les liens de suppression et de modification */
+a {
+    text-decoration: none;
+    color: #007bff;
+    margin-right: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Style pour le formulaire d'édition */
+form {
+    margin: 10px 0;
+}
+
+form input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+form input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Style pour les lignes de formulaire d'édition */
+tr[id^="editForm"] {
+    background-color: #f2f2f2;
+}
+
+/* Style pour le bouton Modifier */
+.edit-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
