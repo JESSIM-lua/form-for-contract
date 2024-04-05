@@ -10,6 +10,10 @@ Génération de PDF : Convertit les informations saisies en un fichier PDF prêt
 Personnalisation : Le CSS peut être modifié pour s'adapter aux besoins spécifiques de l'école.
 
 
+
+https://github.com/JESSIM-lua/form-for-contract/assets/145444152/76656054-3bbf-45ca-aaa8-7590178cca8e
+
+
 **Prérequis**
 
 Serveur web (Apache, Nginx, etc.) avec prise en charge de PHP.
